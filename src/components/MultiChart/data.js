@@ -1,0 +1,18 @@
+
+export const data = [
+	{
+		category: "Research",
+		value1: 1000,
+		value2: 588,
+	},
+	{
+		category: "Marketing",
+		value1: 1200,
+		value2: 1800,
+	},
+	{
+		category: "Sales",
+		value1: 850,
+		value2: 1230,
+	},
+]
